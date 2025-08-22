@@ -1,0 +1,14 @@
+﻿{
+  "files.associations": {
+    "*.html": "gotemplate"
+  },
+  "emmet.includeLanguages": {
+    "gotemplate": "html"
+  },
+  "terminal.integrated.cwd": "${workspaceFolder}",
+  "editor.formatOnSave": true,
+  "files.watcherExclude": {
+    "**/public/**": true,
+    "**/resources/**": true
+  }
+}

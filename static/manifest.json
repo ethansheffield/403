@@ -1,0 +1,8 @@
+﻿{
+  "name": "403 Privacy",
+  "short_name": "403Privacy",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/"
+}
